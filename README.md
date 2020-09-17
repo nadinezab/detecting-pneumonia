@@ -35,7 +35,7 @@ The data consists of just over 5,000 images of chest x-rays of two classes, pati
 
 We noted that data is imbalanced, with 3 times more images of patients diagnosed with pneumonia.
 
-<img src="/Images/distribution.png" alt="Distribution in training set" >
+<img src="/Images/distribution.png" alt="Distribution in training set" width = "500" >
 
 
 ## Results and recommendations
@@ -55,7 +55,7 @@ The CNN model with dropout layers performed best on the validation set and was c
 
 The confusion matrix for the test set is as follows:
 
-<img src="/Images/confmatrix.png" alt="Confusion matrix" >
+<img src="/Images/confmatrix.png" alt="Confusion matrix" width = "500">
 
 With only 3 false negatives, our model has high recall and thus maximises patient safety.
 
