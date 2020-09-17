@@ -27,7 +27,7 @@ The dataset was obtained from [Kaggle](https://www.kaggle.com/paultimothymooney/
 
 * **Blog Post**
 
-A [blog post](TBD) on Medium was created as part of this project.
+A [blog post](https://medium.com/@nadinezab/the-importance-of-domain-knowledge-40d57ae0a91b?sk=f497c9c330990f784de5509ad1cc8460) on Medium was created as part of this project.
 
 ## Data exploration and preprocessing
 
